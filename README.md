@@ -2,6 +2,11 @@
 
 A Solana decentralized blogging platform with NFT integration, built using the Anchor framework.
 
+## Contact
+
+  - [Telegram](https://t.me/caterpillardev)
+  - [Twitter](https://x.com/caterpillardev)
+
 ## Features
 
 - **Content Management**
