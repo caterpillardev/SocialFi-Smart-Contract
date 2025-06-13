@@ -15,7 +15,7 @@ pub fn validate_username(username: &str) -> Result<()> {
     }
     Ok(())
 }
-
+//
 pub fn validate_bio(bio: &str) -> Result<()> {
     if bio.len() > MAX_BIO_LENGTH {
         return Err(CaterpillarError::BioTooLong.into());

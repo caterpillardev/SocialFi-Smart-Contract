@@ -16,7 +16,7 @@ pub struct UserProfile {
     pub is_banned: bool,
     pub created_at: i64,
 }
-
+// /
 #[account]
 #[derive(Default)]
 pub struct RateLimit {

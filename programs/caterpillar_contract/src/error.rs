@@ -1,5 +1,5 @@
 use crate::*;
-
+//
 #[error_code]
 pub enum CaterpillarError {
     #[msg("UserProfile does not exist.")]

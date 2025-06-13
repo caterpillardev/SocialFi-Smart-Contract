@@ -5,7 +5,7 @@ pub const USER_SEED: &str = "user";
 
 #[constant]
 pub const POST_SEED: &str = "post";
-
+//
 // Content limits
 pub const MAX_USERNAME_LENGTH: usize = 50;
 pub const MAX_BIO_LENGTH: usize = 500;
