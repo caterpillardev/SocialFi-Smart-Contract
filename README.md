@@ -166,6 +166,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/caterpillardev)
+Telegram - [@caterpillardev](https://t.me/caterpillardev)
+Twitter - [@caterpillardev](https://twitter.com/caterpillardev)
 
-Project Link: [https://github.com/yourusername/caterpillar-contract](https://github.com/caterpillardev/caterpillar-socialfi-contract) 
