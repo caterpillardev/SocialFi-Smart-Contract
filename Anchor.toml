@@ -1,7 +1,7 @@
 [toolchain]
 
 [features]
-seeds = false
+seeds = false,
 skip-lint = false
 
 [programs.localnet]
